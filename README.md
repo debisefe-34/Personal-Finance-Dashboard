@@ -35,7 +35,7 @@ Analizlerin daha tutarlı yapılması, performans optimizasyonu ve daha net bir 
 
 ## 📈 Dashboard Görünümü
 
-![Mayıs Ayı Harcama Özeti](mayis_ayi_harcama_ozeti.png)
+![Mayıs Ayı Harcama Özeti](mayis_ayi_harcama_ozeti.png.png)
 
 ---
 
