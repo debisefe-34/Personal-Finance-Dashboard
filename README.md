@@ -52,4 +52,4 @@ Görselleştirme ve raporlama aşamasında, iş zekası süreçlerinde kabul gö
 ## 🎯 Proje Çıkarımları & Finansal Özet
 
 * **Ana Gelir Kaynağı:** Mayıs ayındaki toplam gelirin %54,31'ini Genç İŞKUR ödemesi oluşturarak en büyük nakit girdisini sağlamıştır.
-* **En Büyük Gider Kalemi:** Toplam harcamalar incelendiğinde "
+* **En Büyük Gider Kalemi:** Toplam harcamalar incelendiğinde %46,75'lik oran ve 12.500 TL'lik tutar ile "Kira" ödemesinin en yüksek maliyet kalemi olduğu gözlemlenmiştir."
